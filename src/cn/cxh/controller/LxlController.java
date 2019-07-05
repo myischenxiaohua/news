@@ -4,5 +4,7 @@ public class LxlController extends BaseController{
     public void add(){
 
     }
-    public  void del(){}
+    public  void del(){
+
+    }
 }
