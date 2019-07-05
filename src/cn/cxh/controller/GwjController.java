@@ -8,5 +8,5 @@ package cn.cxh.controller;
 */
 
 public class GwjController extends BaseController{
-
+    public void add(){}
 }
