@@ -17,7 +17,8 @@ public class CxhController extends BaseController{
 
     public void  update(){}
 
-    public void search(){}
+    public void sear(){}
+
 
 
 }
