@@ -14,4 +14,10 @@ public class CxhController extends BaseController{
     public void del(){
 
     }
+
+    public void  update(){}
+
+    public void search(){}
+
+
 }
