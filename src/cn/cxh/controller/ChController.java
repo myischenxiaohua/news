@@ -5,4 +5,5 @@ public class ChController extends BaseController {
         public void add(){
 
         }
+        public void del(){}
 }
