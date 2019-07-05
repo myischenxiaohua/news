@@ -7,4 +7,8 @@ package cn.cxh.controller;/*
 */
 
 public class CxhController extends BaseController{
+    public void add(){
+
+
+    }
 }
